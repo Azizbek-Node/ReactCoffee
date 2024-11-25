@@ -1,7 +1,7 @@
 import "./Header.css";
 import { FaSearch } from "react-icons/fa";
 import { RiShoppingBag3Fill } from "react-icons/ri";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/Logo.svg";
 import coffee from "../../assets/Rectangle12.svg";
 import coffeePhoto from "../../assets/Rectangle 4.svg";
 import coffeePhoto2 from "../../assets/Rectangle 4 (3).svg";
